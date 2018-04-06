@@ -1,16 +1,10 @@
 {
-    "activitycontinuation": {
-        "apps": [
-           "7LPK4Q63XC.ru.omw.app"
-        ]
-    },
-
     "applinks": {
         "apps": [],
         "details": [
             {
                 "appID": "7LPK4Q63XC.ru.omw.app",
-                "paths": [ "*"]
+				"paths": [ "/users/*", "/wishes/*"]
             }
         ]
     }
