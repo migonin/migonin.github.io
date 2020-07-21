@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "7LPK4Q63XC.ru.omw.app",
-                "paths": [ "/users/*", "/wishes/*", "/password/reset", "/email/confirm"]
+                "paths": [ "/users/*", "/wishes/*", "/password/*", "/email/*"]
             }
         ]
     }
