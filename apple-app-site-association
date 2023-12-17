@@ -3,8 +3,8 @@
         "apps": [],
         "details": [
             {
-                "appID": "7LPK4Q63XC.ru.omw.app",
-                "paths": [ "/users/*", "/wishes/*", "/password/*", "/email/*"]
+                "appID": "56Y25S45T4.ru.omw.app",
+                "paths": [ "/users/*", "/password/*", "/email/*", "/selections/*"]
             }
         ]
     }
