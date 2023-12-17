@@ -1,9 +1,8 @@
 {
     "applinks": {
-        "apps": [],
         "details": [
             {
-                "appID": "56Y25S45T4.ru.omw.app",
+                "appIDs": ["56Y25S45T4.ru.omw.app"],
                 "paths": [ "/users/*", "/password/*", "/email/*", "/selections/*"]
             }
         ]
