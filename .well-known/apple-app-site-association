@@ -2,7 +2,9 @@
     "applinks": {
         "details": [
             {
-                "appIDs": ["56Y25S45T4.ru.omw.app"],
+                "appIDs": [
+                    "56Y25S45T4.ru.omw.app"
+                ],
                 "components": [
                     {
                         "#": "no_universal_links",
@@ -22,9 +24,9 @@
                         "comment": "Matches any URL with a path that starts with /email/."
                     },
                     {
-                       "/": "/selections/*",
-                       "comment": "Matches any URL with a path that starts with /selections/."
-                    },
+                        "/": "/selections/*",
+                        "comment": "Matches any URL with a path that starts with /selections/."
+                    }
                 ]
             }
         ]
