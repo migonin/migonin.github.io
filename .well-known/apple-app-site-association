@@ -3,7 +3,29 @@
         "details": [
             {
                 "appIDs": ["56Y25S45T4.ru.omw.app"],
-                "paths": [ "/users/*", "/password/*", "/email/*", "/selections/*"]
+                "components": [
+                    {
+                        "#": "no_universal_links",
+                        "exclude": true,
+                        "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
+                    },
+                    {
+                        "/": "/users/*",
+                        "comment": "Matches any URL with a path that starts with /users/."
+                    },
+                    {
+                        "/": "/password/*",
+                        "comment": "Matches any URL with a path that starts with /password/."
+                    },
+                    {
+                        "/": "/email/*",
+                        "comment": "Matches any URL with a path that starts with /email/."
+                    },
+                    {
+                       "/": "/selections/*",
+                       "comment": "Matches any URL with a path that starts with /selections/."
+                    },
+                ]
             }
         ]
     }
