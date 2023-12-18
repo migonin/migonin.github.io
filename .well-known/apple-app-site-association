@@ -28,7 +28,7 @@
                         "comment": "Matches any URL with a path that starts with /selections/."
                     },
                     {
-                        "/": "/santa,
+                        "/": "/santa",
                         "comment": "Matches url to Secret Santa"
                     },
                     {
