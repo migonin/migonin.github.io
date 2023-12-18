@@ -30,7 +30,7 @@
                     {
                         "/": "/santa,
                         "comment": "Matches url to Secret Santa"
-                    }
+                    },
                     {
                         "/": "/game/*",
                         "comment": "Matches any URL with a path that starts with /game/."
