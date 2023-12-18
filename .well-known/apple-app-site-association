@@ -26,7 +26,12 @@
                     {
                         "/": "/selections/*",
                         "comment": "Matches any URL with a path that starts with /selections/."
+                    },
+                    {
+                        "/": "/game/*",
+                        "comment": "Matches any URL with a path that starts with /game/."
                     }
+
                 ]
             }
         ]
