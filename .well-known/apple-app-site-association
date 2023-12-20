@@ -8,32 +8,31 @@
                 "components": [
                     {
                         "#": "no_universal_links",
-                        "exclude": true,
-                        "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
+                        "exclude": true
                     },
                     {
-                        "/": "/users/*",
-                        "comment": "Matches any URL with a path that starts with /users/."
+                        "/": "/users/*"
                     },
                     {
-                        "/": "/password/*",
-                        "comment": "Matches any URL with a path that starts with /password/."
+                        "/": "/password/*"
                     },
                     {
-                        "/": "/email/*",
-                        "comment": "Matches any URL with a path that starts with /email/."
+                        "/": "/email/*"
                     },
                     {
-                        "/": "/selections/*",
-                        "comment": "Matches any URL with a path that starts with /selections/."
+                        "/": "/selections/*"
                     },
                     {
-                        "/": "/santa",
-                        "comment": "Matches url to Secret Santa"
+                        "/": "/santa"
                     },
                     {
-                        "/": "/game/*",
-                        "comment": "Matches any URL with a path that starts with /game/."
+                        "/": "/game/*"
+                    },
+                    {
+                        "/": "/password/*"
+                    },
+                    {
+                        "/": "/email/*"
                     }
                 ]
             }
