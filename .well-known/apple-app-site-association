@@ -33,6 +33,9 @@
                     },
                     {
                         "/": "/email/*"
+                    },
+                    {
+                        "/": "/secret-santa/games/*"
                     }
                 ]
             }
