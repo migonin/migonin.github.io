@@ -1,0 +1,31 @@
+name: Update JSON from Google Sheets
+
+on:
+  workflow_dispatch:  # 👈 allows manual run from GitHub Actions tab
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install google-auth google-api-python-client
+
+      - name: Fetch and convert spreadsheet
+        run: python .github/loadspreadsheet.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/output.json
+          git commit -m "Update JSON from Google Sheets" || echo "No changes"
+          git push
