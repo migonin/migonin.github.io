@@ -4,13 +4,16 @@ from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
 
 # === Configuration ===
-SERVICE_ACCOUNT_FILE = "secrets/service_account.json"
+SERVICE_ACCOUNT_FILE = os.path.join(os.path.dirname(__file__), "service_account.json")
 SPREADSHEET_ID = "1nw23BQ_VzFLdcWoii12Sb1GEutMrVSRLIs3ISyinZNQ"
 SHEET_NAMES = ["Places", "Categories", "Curators"]
 
-# Save JSON directly to repo root
+# Always resolve the repo root reliably
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 OUTPUT_PATH = os.path.join(ROOT_DIR, "output.json")
+
+print(f"📂 Root dir: {ROOT_DIR}")
+print(f"📝 Output path: {OUTPUT_PATH}")
 
 # === Auth & API setup ===
 scopes = ["https://www.googleapis.com/auth/spreadsheets.readonly"]
@@ -38,7 +41,12 @@ for value_range in response.get("valueRanges", []):
     rows = [dict(zip(headers, row)) for row in values[1:]]
     data[name] = rows
 
-# === Write output file safely ===
+# === Ensure directory exists ===
+output_dir = os.path.dirname(OUTPUT_PATH)
+if output_dir:
+    os.makedirs(output_dir, exist_ok=True)
+
+# === Write JSON ===
 with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
 
