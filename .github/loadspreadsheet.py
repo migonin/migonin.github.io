@@ -3,7 +3,7 @@ import json
 from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
 
-SERVICE_ACCOUNT_FILE = ".github/creds.json"
+SERVICE_ACCOUNT_FILE = "secrets/service_account.json"
 SPREADSHEET_ID = "1nw23BQ_VzFLdcWoii12Sb1GEutMrVSRLIs3ISyinZNQ"
 OUTPUT_PATH = "something.json"
 SHEET_NAMES = ["Places", "Categories", "Curators"]
