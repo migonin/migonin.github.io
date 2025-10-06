@@ -36,7 +36,11 @@ for value_range in response.get("valueRanges", []):
     data[name] = rows
 
 # Save JSON
-os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
+# Ensure directory exists only if there's one
+dirpath = os.path.dirname(OUTPUT_PATH)
+if dirpath:
+    os.makedirs(dirpath, exist_ok=True)
+
 with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
 
