@@ -22,7 +22,7 @@ jobs:
       - name: Write credentials file securely
         run: |
           mkdir -p secrets
-          echo '${{ secrets.SPREADSHEETSLOADER }}' > secrets/service_account.json
+          echo '${{ secrets.GOOGLESHEETSLOADER }}' > secrets/service_account.json
 
       - name: Fetch and convert spreadsheet
         run: python .github/loadspreadsheet.py
