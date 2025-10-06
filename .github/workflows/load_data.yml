@@ -25,7 +25,7 @@ jobs:
           echo '${{ secrets.SPREADSHEETSLOADER }}' > secrets/service_account.json
 
       - name: Fetch and convert spreadsheet
-        run: python scripts/fetch_spreadsheet.py
+        run: python .github/loadspreadsheet.py
 
       - name: Commit and push changes
         run: |
