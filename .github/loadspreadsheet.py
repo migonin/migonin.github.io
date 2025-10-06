@@ -3,18 +3,22 @@ import json
 from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
 
+# === Configuration ===
 SERVICE_ACCOUNT_FILE = "secrets/service_account.json"
 SPREADSHEET_ID = "1nw23BQ_VzFLdcWoii12Sb1GEutMrVSRLIs3ISyinZNQ"
-OUTPUT_PATH = "./something.json"
 SHEET_NAMES = ["Places", "Categories", "Curators"]
 
+# Save JSON directly to repo root
+ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+OUTPUT_PATH = os.path.join(ROOT_DIR, "output.json")
+
+# === Auth & API setup ===
 scopes = ["https://www.googleapis.com/auth/spreadsheets.readonly"]
 creds = Credentials.from_service_account_file(SERVICE_ACCOUNT_FILE, scopes=scopes)
-
 service = build("sheets", "v4", credentials=creds)
 sheet_api = service.spreadsheets().values()
 
-# Batch get all sheets in one call
+# === Fetch all sheets in one call ===
 response = sheet_api.batchGet(
     spreadsheetId=SPREADSHEET_ID,
     ranges=SHEET_NAMES
@@ -22,9 +26,8 @@ response = sheet_api.batchGet(
 
 data = {}
 
-# Convert each sheet's range to structured dicts
 for value_range in response.get("valueRanges", []):
-    name = value_range["range"].split("!")[0].strip("'")  # extract sheet name
+    name = value_range["range"].split("!")[0].strip("'")
     values = value_range.get("values", [])
 
     if not values:
@@ -35,13 +38,8 @@ for value_range in response.get("valueRanges", []):
     rows = [dict(zip(headers, row)) for row in values[1:]]
     data[name] = rows
 
-# Save JSON
-# Ensure directory exists only if there's one
-dirpath = os.path.dirname(OUTPUT_PATH)
-if dirpath:
-    os.makedirs(dirpath, exist_ok=True)
-
+# === Write output file safely ===
 with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
 
-print(f"✅ Exported {len(SHEET_NAMES)} sheets → {OUTPUT_PATH}")
+print(f"✅ Exported {len(SHEET_NAMES)} sheets to {OUTPUT_PATH}")
