@@ -8,12 +8,9 @@ SERVICE_ACCOUNT_FILE = os.path.join(os.path.dirname(__file__), "service_account.
 SPREADSHEET_ID = "1nw23BQ_VzFLdcWoii12Sb1GEutMrVSRLIs3ISyinZNQ"
 SHEET_NAMES = ["Places", "Categories", "Curators"]
 
-# Always resolve the repo root reliably
+# Save JSON directly to repo root
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 OUTPUT_PATH = os.path.join(ROOT_DIR, "something.json")
-
-print(f"📂 Root dir: {ROOT_DIR}")
-print(f"📝 Output path: {OUTPUT_PATH}")
 
 # === Auth & API setup ===
 scopes = ["https://www.googleapis.com/auth/spreadsheets.readonly"]
@@ -46,8 +43,10 @@ output_dir = os.path.dirname(OUTPUT_PATH)
 if output_dir:
     os.makedirs(output_dir, exist_ok=True)
 
-# === Write JSON ===
+# === Always overwrite the JSON file ===
 with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
 
 print(f"✅ Exported {len(SHEET_NAMES)} sheets to {OUTPUT_PATH}")
+for sheet_name, items in data.items():
+    print(f"   • {sheet_name}: {len(items)} rows")
