@@ -30,6 +30,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output.json
+          git add something.json
           git commit -m "Update JSON from Google Sheets" || echo "No changes"
           git push
