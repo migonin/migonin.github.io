@@ -10,7 +10,7 @@ SHEET_NAMES = ["Places", "Categories", "Curators"]
 
 # Always resolve the repo root reliably
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
-OUTPUT_PATH = os.path.join(ROOT_DIR, "output.json")
+OUTPUT_PATH = os.path.join(ROOT_DIR, "something.json")
 
 print(f"📂 Root dir: {ROOT_DIR}")
 print(f"📝 Output path: {OUTPUT_PATH}")
