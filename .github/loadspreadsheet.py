@@ -3,9 +3,9 @@ import json
 from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
 
-SERVICE_ACCOUNT_FILE = "creds.json"
+SERVICE_ACCOUNT_FILE = ".github/creds.json"
 SPREADSHEET_ID = "1nw23BQ_VzFLdcWoii12Sb1GEutMrVSRLIs3ISyinZNQ"
-OUTPUT_PATH = "../something.json"
+OUTPUT_PATH = "something.json"
 SHEET_NAMES = ["Places", "Categories", "Curators"]
 
 scopes = ["https://www.googleapis.com/auth/spreadsheets.readonly"]
