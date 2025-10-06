@@ -1,8 +1,5 @@
 name: Update JSON from Google Sheets
 
-on:
-  workflow_dispatch:
-
 jobs:
   update-json:
     runs-on: ubuntu-latest
