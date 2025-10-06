@@ -1,7 +1,7 @@
 name: Update JSON from Google Sheets
 
 on:
-  workflow_dispatch:  # 👈 allows manual run from GitHub Actions tab
+  workflow_dispatch:
 
 jobs:
   update-json:
@@ -19,8 +19,13 @@ jobs:
       - name: Install dependencies
         run: pip install google-auth google-api-python-client
 
+      - name: Write credentials file securely
+        run: |
+          mkdir -p secrets
+          echo '${{ secrets.SPREADSHEETSLOADER }}' > secrets/service_account.json
+
       - name: Fetch and convert spreadsheet
-        run: python .github/loadspreadsheet.py
+        run: python scripts/fetch_spreadsheet.py
 
       - name: Commit and push changes
         run: |
