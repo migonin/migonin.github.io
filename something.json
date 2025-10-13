@@ -370,7 +370,9 @@
   ],
   "Curators": [
     {
-      "Name": "Выбор редакции"
+      "Name": "Выбор редакции",
+      "Photo": "https://mtantsura.com/wp-content/uploads/IMG_0269.jpg",
+      "Description": "Очень небольшой текст о команде."
     },
     {
       "Name": "Катя Авраменко",
