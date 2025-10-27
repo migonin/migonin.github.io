@@ -31,15 +31,29 @@
     {
       "Name": "Sushi no Midori",
       "Category": "еда",
-      "Description": "Классический японский",
+      "Description": "Классический японский суши-бар – свежая рыба, идеальный сервис и полное погружение в культуру. Рекомендуется бронировать места заранее. ",
       "Photo URL": "",
       "Google Maps": "https://maps.app.goo.gl/HhKHna9potiNZDtF9",
       "Yandex Maps": "",
-      "Working Hours": "Пн-Пт: 10:00-22:00\nСб-Вс: 12:00-20:00",
+      "Working Hours": "Пн-Пт: 11:00-15:00\nПн-Пт: 17:00-21:00\nСб-Вс: 11:00-21:00",
       "Timezone": "9",
       "Coordinates": "35.670305487775494, 139.7596139721083",
       "Territory": "Япония",
-      "Who Recommends": "редакция",
+      "Who Recommends": "редакция, Катя Авраменко",
+      "Updated": "Октябрь 2025"
+    },
+    {
+      "Name": "Found Rāmen & Rekōdo",
+      "Category": "еда",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "https://maps.app.goo.gl/Eo4c8Z5QWqcs2UPMA",
+      "Yandex Maps": "https://yandex.ru/maps/-/CLfCIAys",
+      "Working Hours": "Пн-Вс: 12:00-23:00",
+      "Timezone": "3",
+      "Coordinates": "55.763787, 37.615504",
+      "Territory": "Россия",
+      "Who Recommends": "редакция, Катя Авраменко",
       "Updated": "Октябрь 2025"
     }
   ],
