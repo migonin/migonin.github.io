@@ -19,7 +19,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install google-auth google-api-python-client
+        run: pip install packaging google-api-python-client google-auth
 
       - name: Write credentials file securely
         run: |
