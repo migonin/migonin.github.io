@@ -11,7 +11,7 @@
       "Timezone": "3",
       "Coordinates": "55.737328, 37.640004",
       "Territory": "Россия",
-      "Who Recommends": "редакция, Катя Авраменко",
+      "Who Recommends": "Редакция, Катя Авраменко",
       "Updated": "Октябрь 2025"
     },
     {
@@ -25,7 +25,7 @@
       "Timezone": "3",
       "Coordinates": "55.732660, 37.627335",
       "Territory": "Россия",
-      "Who Recommends": "редакция, Катя Авраменко",
+      "Who Recommends": "Редакция, Катя Авраменко",
       "Updated": "Октябрь 2025"
     },
     {
@@ -39,7 +39,7 @@
       "Timezone": "9",
       "Coordinates": "35.670305487775494, 139.7596139721083",
       "Territory": "Япония",
-      "Who Recommends": "редакция, Катя Авраменко",
+      "Who Recommends": "Редакция, Катя Авраменко",
       "Updated": "Октябрь 2025"
     },
     {
@@ -53,7 +53,7 @@
       "Timezone": "3",
       "Coordinates": "55.763787, 37.615504",
       "Territory": "Россия",
-      "Who Recommends": "редакция, Катя Авраменко",
+      "Who Recommends": "Редакция, Катя Авраменко",
       "Updated": "Октябрь 2025"
     },
     {
@@ -67,7 +67,7 @@
       "Timezone": "3",
       "Coordinates": "55.671233, 37.377505",
       "Territory": "Россия",
-      "Who Recommends": "редакция, Катя Авраменко",
+      "Who Recommends": "Редакция, Катя Авраменко",
       "Updated": "Октябрь 2025"
     },
     {
@@ -81,7 +81,7 @@
       "Timezone": "3",
       "Coordinates": "55.685397, 37.397270",
       "Territory": "Россия",
-      "Who Recommends": "редакция, Катя Авраменко",
+      "Who Recommends": "Редакция, Катя Авраменко",
       "Updated": "Октябрь 2025"
     },
     {
@@ -91,11 +91,11 @@
       "Photo URL": "",
       "Google Maps": "https://maps.app.goo.gl/c6ucgppnew79AXPb6",
       "Yandex Maps": "https://yandex.ru/maps/-/CLfCUB6n",
-      "Working Hours": "Пн-Вс: 00:00-00:00",
+      "Working Hours": "Пн-Вс: 00:01-00:00",
       "Timezone": "3",
       "Coordinates": "55.717252, 37.587335",
       "Territory": "Россия",
-      "Who Recommends": "редакция, Катя Авраменко",
+      "Who Recommends": "Редакция, Катя Авраменко",
       "Updated": "Октябрь 2025"
     },
     {
@@ -109,7 +109,49 @@
       "Timezone": "3",
       "Coordinates": "55.776841, 37.613550",
       "Territory": "Россия",
-      "Who Recommends": "редакция",
+      "Who Recommends": "Редакция",
+      "Updated": "Октябрь 2025"
+    },
+    {
+      "Name": "Rockets",
+      "Category": "кофе, еда",
+      "Description": "Ежедневная обжарка зерна на собственном производстве в Москве.",
+      "Photo URL": "",
+      "Google Maps": "",
+      "Yandex Maps": "https://yandex.ru/maps/-/CLfKUAo7",
+      "Working Hours": "Пн-Вс: 09:00-23:00",
+      "Timezone": "3",
+      "Coordinates": "55.758304, 37.598107",
+      "Territory": "Россия",
+      "Who Recommends": "Редакция",
+      "Updated": "Октябрь 2025"
+    },
+    {
+      "Name": "Рихтер",
+      "Category": "остановиться, еда",
+      "Description": "Старинный особняк с минималистичным интерьером стал любимым местом прогрессивных москвичей. В отеле расположено одно из лучших заведений Замоскворечья с вкусной кухней и обширным календарём специальных мероприятий от лекций до кинопоказов. ",
+      "Photo URL": "",
+      "Google Maps": "https://maps.app.goo.gl/kEKiWuvqWdT78L7j6",
+      "Yandex Maps": "https://yandex.ru/maps/-/CLfKUX77",
+      "Working Hours": "Пн-Вс: 09:00-00:00",
+      "Timezone": "3",
+      "Coordinates": "55.737785, 37.627840",
+      "Territory": "Россия",
+      "Who Recommends": "Редакция",
+      "Updated": "Октябрь 2025"
+    },
+    {
+      "Name": "Подписные издания",
+      "Category": "книжный",
+      "Description": "Один из самых знаменитых и успешных книжных страны, в котором легко можно провести несколько часов, переходя от полки к полке и изучая всё лучшее, что когда-либо печатали в этом мире.",
+      "Photo URL": "",
+      "Google Maps": "https://maps.app.goo.gl/9RZkysCTb6YvW9UK9",
+      "Yandex Maps": "https://yandex.ru/maps/-/CLfKYEl~",
+      "Working Hours": "Пн-Вс: 10:00-22:00",
+      "Timezone": "3",
+      "Coordinates": "59.934442, 30.347771",
+      "Territory": "Россия",
+      "Who Recommends": "Редакция, Катя Авраменко",
       "Updated": "Октябрь 2025"
     }
   ],
@@ -157,7 +199,7 @@
   ],
   "Curators": [
     {
-      "Name": "редакция",
+      "Name": "Редакция",
       "Photo": "",
       "Description": "Очень небольшой текст о команде."
     },
