@@ -379,8 +379,8 @@
       "Updated": "Октябрь 2025"
     },
     {
-      "Name": "Музей Гараж",
-      "Category": "книжный, культура",
+      "Name": "Музей современного искусства «Гараж»\n",
+      "Category": "культура, книжный",
       "Description": "",
       "Photo URL": "",
       "Google Maps": "https://maps.app.goo.gl/TSpidEDxGe4QtmPK7",
@@ -393,8 +393,8 @@
       "Updated": "Октябрь 2025"
     },
     {
-      "Name": "ГЭС-2",
-      "Category": "",
+      "Name": "Дом культуры «ГЭС-2»",
+      "Category": "культура",
       "Description": "",
       "Photo URL": "",
       "Google Maps": "https://maps.app.goo.gl/16zPjRL71L6K1E5V9",
@@ -402,6 +402,20 @@
       "Working Hours": "Пн-Вс: 11:00-22:00",
       "Timezone": "3",
       "Coordinates": "55.742751, 37.612732",
+      "Territory": "Россия",
+      "Who Recommends": "Катя Авраменко",
+      "Updated": "Октябрь 2025"
+    },
+    {
+      "Name": "Strelka Bar",
+      "Category": "бар",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "https://maps.app.goo.gl/ttpf1nz7ZUwj9PVM9",
+      "Yandex Maps": "https://yandex.ru/maps/-/CLrSiCJH",
+      "Working Hours": "Пн-Чт: 10:00-23:00\nПт-Сб: 10:00-03:00\nВс: 12:00-22:00",
+      "Timezone": "3",
+      "Coordinates": "55.742451, 37.609307",
       "Territory": "Россия",
       "Who Recommends": "Катя Авраменко",
       "Updated": "Октябрь 2025"
@@ -438,7 +452,7 @@
     },
     {
       "Name": "уход",
-      "Icon": "💅"
+      "Icon": "💆🏻‍♀️"
     },
     {
       "Name": "остановиться",
