@@ -503,6 +503,48 @@
       "Territory": "Россия",
       "Who Recommends": "Катя Авраменко",
       "Updated": "Октябрь 2025"
+    },
+    {
+      "Name": "Лицей",
+      "Category": "кофе, еда",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "",
+      "Yandex Maps": "https://yandex.ru/maps/-/CLrgNRYG",
+      "Working Hours": "Пн-Чт: 08:00-21:00\nВс: 09:00-22:00",
+      "Timezone": "3",
+      "Coordinates": "55.760240, 37.651434",
+      "Territory": "Россия",
+      "Who Recommends": "Катя Авраменко",
+      "Updated": "Октябрь 2025"
+    },
+    {
+      "Name": "Лицей",
+      "Category": "кофе, еда",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "",
+      "Yandex Maps": "https://yandex.ru/maps/-/CLrgNLIw",
+      "Working Hours": "Пн-Чт: 08:00-23:00\nВс: 09:00-22:00",
+      "Timezone": "3",
+      "Coordinates": "55.739796, 37.596257",
+      "Territory": "Россия",
+      "Who Recommends": "Катя Авраменко",
+      "Updated": "Октябрь 2025"
+    },
+    {
+      "Name": "Delicatessen",
+      "Category": "бар, еда",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "",
+      "Yandex Maps": "https://yandex.ru/maps/-/CLrgRHY1",
+      "Working Hours": "Вт-Чт: 12:00-00:00\nВс: 09:00-22:00",
+      "Timezone": "3",
+      "Coordinates": "55.772606, 37.610892",
+      "Territory": "Россия",
+      "Who Recommends": "Катя Авраменко",
+      "Updated": "Октябрь 2025"
     }
   ],
   "Categories": [
