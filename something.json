@@ -559,6 +559,34 @@
       "Territory": "Россия",
       "Who Recommends": "Редакция",
       "Updated": "Октябрь 2025"
+    },
+    {
+      "Name": "Лесной терем Асташово",
+      "Category": "остановиться, достопримечательности",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "https://maps.app.goo.gl/9E13wPWxdoFxt9Bp6",
+      "Yandex Maps": "https://yandex.ru/maps/-/CLvEuUn6",
+      "Working Hours": "Пн-Вс: 09:00-21:00",
+      "Timezone": "3",
+      "Coordinates": "58.688085, 43.082147",
+      "Territory": "Россия",
+      "Who Recommends": "Редакция",
+      "Updated": "Октябрь 2025"
+    },
+    {
+      "Name": "Гостевой дом О'27 Silvuple",
+      "Category": "остановиться",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "https://maps.app.goo.gl/aUycK6By93zCypwcA",
+      "Yandex Maps": "https://yandex.ru/maps/-/CLvEuH0X",
+      "Working Hours": "Пн-Вс: 10:00-23:00",
+      "Timezone": "3",
+      "Coordinates": "57.190854, 39.423080",
+      "Territory": "Россия",
+      "Who Recommends": "Редакция",
+      "Updated": "Октябрь 2025"
     }
   ],
   "Categories": [
