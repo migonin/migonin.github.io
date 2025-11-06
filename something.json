@@ -3,7 +3,7 @@
     {
       "Name": "Аэроплан",
       "Category": "кофе, еда",
-      "Description": "Cпешлти кофейня, где бариста готовят идеальные напитки на основе эспрессо, заваривают черный кофе ручными методами и без лишнего снобизма погружают в современную кофейную культуру.",
+      "Description": "",
       "Photo URL": "https://horosh.ee/app-resources/venues/aeroplan.jpeg",
       "Google Maps": "https://maps.app.goo.gl/H5dCbyavCjdLmLmRA",
       "Yandex Maps": "https://yandex.ru/maps/-/CLaZASi2",
@@ -17,7 +17,7 @@
     {
       "Name": "Аэроплан",
       "Category": "кофе, еда",
-      "Description": "Cпешлти кофейня, где бариста готовят идеальные напитки на основе эспрессо, заваривают черный кофе ручными методами и без лишнего снобизма погружают в современную кофейную культуру.",
+      "Description": "",
       "Photo URL": "https://horosh.ee/app-resources/venues/aeroplan.jpeg",
       "Google Maps": "https://maps.app.goo.gl/ezMG9jVDPHwd3cdH6",
       "Yandex Maps": "https://yandex.ru/maps/-/CLfC4VyN",
@@ -73,7 +73,7 @@
     {
       "Name": "Sabz",
       "Category": "еда",
-      "Description": "Кебабы и шашлыки от Ариила Давыдова можно смело назвать одними из самых вкусных в Москве.",
+      "Description": "",
       "Photo URL": "",
       "Google Maps": "",
       "Yandex Maps": "https://yandex.ru/maps/-/CLfCM8I8",
@@ -87,7 +87,7 @@
     {
       "Name": "Нескучный сад",
       "Category": "природа",
-      "Description": "Место, где коренные москвичи тешатся кормлением белок и тихими прогулками среди столетних дубов.",
+      "Description": "",
       "Photo URL": "",
       "Google Maps": "https://maps.app.goo.gl/c6ucgppnew79AXPb6",
       "Yandex Maps": "https://yandex.ru/maps/-/CLfCUB6n",
@@ -101,7 +101,7 @@
     {
       "Name": "Сад Памяти",
       "Category": "культура",
-      "Description": "Тихий и небольшой сад, расположенный на территории бывшего Музея истории ГУЛАГа и посвященный людям, пострадавшим от массовых репрессий в СССР.",
+      "Description": "",
       "Photo URL": "",
       "Google Maps": "",
       "Yandex Maps": "https://yandex.ru/maps/-/CLfCYDKG",
@@ -115,7 +115,7 @@
     {
       "Name": "Rockets",
       "Category": "кофе, еда",
-      "Description": "Ежедневная обжарка зерна на собственном производстве в Москве.",
+      "Description": "",
       "Photo URL": "",
       "Google Maps": "",
       "Yandex Maps": "https://yandex.ru/maps/-/CLfKUAo7",
@@ -129,7 +129,7 @@
     {
       "Name": "Rockets",
       "Category": "кофе, еда",
-      "Description": "Ежедневная обжарка зерна на собственном производстве в Москве.",
+      "Description": "",
       "Photo URL": "",
       "Google Maps": "",
       "Yandex Maps": "https://yandex.ru/maps/-/CLrgJKLO",
@@ -143,7 +143,7 @@
     {
       "Name": "Рихтер",
       "Category": "остановиться, еда",
-      "Description": "Старинный особняк с минималистичным интерьером стал любимым местом прогрессивных москвичей. В отеле расположено одно из лучших заведений Замоскворечья с вкусной кухней и обширным календарём специальных мероприятий от лекций до кинопоказов. ",
+      "Description": "",
       "Photo URL": "",
       "Google Maps": "https://maps.app.goo.gl/kEKiWuvqWdT78L7j6",
       "Yandex Maps": "https://yandex.ru/maps/-/CLfKUX77",
@@ -157,7 +157,7 @@
     {
       "Name": "Подписные издания",
       "Category": "книжный",
-      "Description": "Один из самых знаменитых и успешных книжных страны, в котором легко можно провести несколько часов, переходя от полки к полке и изучая всё лучшее, что когда-либо печатали в этом мире.",
+      "Description": "",
       "Photo URL": "",
       "Google Maps": "https://maps.app.goo.gl/9RZkysCTb6YvW9UK9",
       "Yandex Maps": "https://yandex.ru/maps/-/CLfKYEl~",
@@ -185,7 +185,7 @@
     {
       "Name": "Tokyo",
       "Category": "еда",
-      "Description": "",
+      "Description": "Tokyo — про философию японской кухни, минимализм и мастерство. В меню — акцент на суши, роллах и сашими. Есть raw-бар, мясо и часть морепродуктов готовят в хоспере, а свежие продукты всегда везут из Японии. Атмосферу задаёт открытая кухня и продуманная винная карта.",
       "Photo URL": "",
       "Google Maps": "https://maps.app.goo.gl/1WoyVNkHMw6R8zjL6",
       "Yandex Maps": "https://yandex.ru/maps/-/CLrVaCOi",
@@ -199,7 +199,7 @@
     {
       "Name": "Masa Madre",
       "Category": "еда",
-      "Description": "",
+      "Description": "Городская пекарня с открытой кухней. Внутри — деревянная мебель, панорамные окна, свежие булочки, сэндвичи, завтраки и необычные напитки вроде эспрессо-тоника с грейпфрутом и шалфеем или матча-тоника с грушей и липой. Можно устроить завтрак с яйцом и бородинским тостом или взять кофе с авторским десертом «на бегу».",
       "Photo URL": "",
       "Google Maps": "",
       "Yandex Maps": "https://yandex.ru/maps/-/CLrVeSmV",
@@ -227,7 +227,7 @@
     {
       "Name": "Rico",
       "Category": "еда",
-      "Description": "",
+      "Description": "Камерное гастрономическое пространство с витриной морепродуктов и домашней атмосферой. Здесь выбирают рыбу, морепродукты и мясо прямо с витрины, блюда готовят на глазах гостей. Меню переменчиво, акцент всегда на свежести ингредиентов. Минималистичный интерьер дружелюбная, домашняя обстановка.",
       "Photo URL": "",
       "Google Maps": "https://maps.app.goo.gl/ynnfCdmfCYzngxbx8",
       "Yandex Maps": "https://yandex.ru/maps/-/CLrVm8ih",
