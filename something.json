@@ -811,6 +811,34 @@
       "Territory": "Барселона",
       "Who Recommends": "Редакция",
       "Updated": "ноябрь 2025"
+    },
+    {
+      "Name": "ASAI Kyoto Shijo",
+      "Category": "остановиться",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "https://maps.app.goo.gl/AB8EKSrk6QvuY3d67",
+      "Yandex Maps": "",
+      "Working Hours": "Пн-Вс: 00:00-00:00",
+      "Timezone": "9",
+      "Coordinates": "34.998833, 135.760375",
+      "Territory": "Киото",
+      "Who Recommends": "Редакция",
+      "Updated": "ноябрь 2025"
+    },
+    {
+      "Name": "More",
+      "Category": "магазин",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "",
+      "Yandex Maps": "https://yandex.ru/maps/-/CLv2qJzj",
+      "Working Hours": "Пн-Вс: 12:00-21:00",
+      "Timezone": "3",
+      "Coordinates": "59.962942, 30.289323",
+      "Territory": "Санкт-Петербург",
+      "Who Recommends": "Редакция",
+      "Updated": "ноябрь 2025"
     }
   ],
   "Categories": [
