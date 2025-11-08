@@ -909,6 +909,48 @@
       "Territory": "Амстердам",
       "Who Recommends": "Редакция",
       "Updated": "ноябрь 2025"
+    },
+    {
+      "Name": "Kastrup Søbad",
+      "Category": "природа, достопримечательности, уход",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "https://maps.app.goo.gl/ebHdmduARRrfyq2E9",
+      "Yandex Maps": "",
+      "Working Hours": "Пн-Вс: 08:00-22:00",
+      "Timezone": "1",
+      "Coordinates": "55.645393, 12.649315",
+      "Territory": "Копенгаген",
+      "Who Recommends": "Редакция",
+      "Updated": "ноябрь 2025"
+    },
+    {
+      "Name": "Atelier September",
+      "Category": "кофе, еда",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "https://maps.app.goo.gl/ePtt7HpmEnNHXTSh9",
+      "Yandex Maps": "",
+      "Working Hours": "Пн-Пт: 07:30-18:00\nСб-Вс: 08:00-17:00",
+      "Timezone": "1",
+      "Coordinates": "55.687316, 12.585048",
+      "Territory": "Копенгаген",
+      "Who Recommends": "Редакция",
+      "Updated": "ноябрь 2025"
+    },
+    {
+      "Name": "Grundtvigs Kirke",
+      "Category": "",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "https://maps.app.goo.gl/qPwTkrh3qHaMSzCS6",
+      "Yandex Maps": "",
+      "Working Hours": "",
+      "Timezone": "1",
+      "Coordinates": "55.716553, 12.533364",
+      "Territory": "Копенгаген",
+      "Who Recommends": "Редакция",
+      "Updated": "ноябрь 2025"
     }
   ],
   "Categories": [
