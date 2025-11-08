@@ -685,6 +685,42 @@
       "Territory": "Россия",
       "Who Recommends": "Редакция",
       "Updated": "ноябрь 2025"
+    },
+    {
+      "Name": "Кудыкина Гора",
+      "Category": "достопримечательности, остановиться, природа",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "https://maps.app.goo.gl/GGRTT1Q8svvUB2Sm9",
+      "Yandex Maps": "https://yandex.ru/maps/-/CLvXrRY7",
+      "Working Hours": "Пн-Вс: 09:00-20:00",
+      "Timezone": "3",
+      "Coordinates": "52.367355, 38.770041",
+      "Territory": "Россия",
+      "Who Recommends": "Редакция",
+      "Updated": "ноябрь 2025"
+    },
+    {
+      "Name": "Приморье Grand Resort Hotel",
+      "Category": "остановиться",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "https://maps.app.goo.gl/xmmnPBNg9Fiv3AAm7",
+      "Yandex Maps": "https://yandex.ru/maps/-/CLvXrLNu",
+      "Working Hours": "Пн-Вс: 00:00-00:00",
+      "Timezone": "3",
+      "Coordinates": "52.367355, 38.770041",
+      "Territory": "Россия",
+      "Who Recommends": "Катя Авраменко, Редакция",
+      "Updated": "ноябрь 2025"
+    },
+    {
+      "Name": "",
+      "Category": "",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "",
+      "Yandex Maps": "https://yandex.ru/maps/-/CLvXvBYN"
     }
   ],
   "Categories": [
