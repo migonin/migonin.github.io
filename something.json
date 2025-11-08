@@ -831,12 +831,26 @@
       "Category": "магазин",
       "Description": "",
       "Photo URL": "",
-      "Google Maps": "",
+      "Google Maps": "https://maps.app.goo.gl/MdCoPjR5r6mcnZM1A",
       "Yandex Maps": "https://yandex.ru/maps/-/CLv2qJzj",
       "Working Hours": "Пн-Вс: 12:00-21:00",
       "Timezone": "3",
       "Coordinates": "59.962942, 30.289323",
       "Territory": "Санкт-Петербург",
+      "Who Recommends": "Редакция",
+      "Updated": "ноябрь 2025"
+    },
+    {
+      "Name": "Téléphérique Aiguille du Midi",
+      "Category": "достопримечательности, природа",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "https://maps.app.goo.gl/MeRyXb4m8qXbeSWZ7",
+      "Yandex Maps": "",
+      "Working Hours": "Пн-Вс: 08:00-15:00",
+      "Timezone": "1",
+      "Coordinates": "45.918269, 6.869824",
+      "Territory": "Альпы",
       "Who Recommends": "Редакция",
       "Updated": "ноябрь 2025"
     }
