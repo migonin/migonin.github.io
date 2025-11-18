@@ -979,6 +979,48 @@
       "Territory": "Стамбул",
       "Who Recommends": "Редакция",
       "Updated": "ноябрь 2025"
+    },
+    {
+      "Name": "Casper",
+      "Category": "еда",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "https://maps.app.goo.gl/jrJwJSkXC7Quz3Yy7",
+      "Yandex Maps": "https://yandex.ru/maps/-/CLG2QLjM",
+      "Working Hours": "Вс-Чт: 12:00-23:30\nПт-Сб : 12:00-00:00",
+      "Timezone": "3",
+      "Coordinates": "59.943858, 30.353340",
+      "Territory": "Москва",
+      "Who Recommends": "Редакция, Катя Авраменко",
+      "Updated": "ноябрь 2025"
+    },
+    {
+      "Name": "Heal",
+      "Category": "еда",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "https://maps.app.goo.gl/KAqR9C5tkCjHGAtL9",
+      "Yandex Maps": "",
+      "Working Hours": "Пн-Вс: 07:00-00:00",
+      "Timezone": "4",
+      "Coordinates": "25.15876582958045, 55.20925246345645",
+      "Territory": "",
+      "Who Recommends": "Катя Авраменко",
+      "Updated": "ноябрь 2025"
+    },
+    {
+      "Name": "Orijins",
+      "Category": "кофе",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "https://maps.app.goo.gl/YrPVbpRSoJcjpv9i8",
+      "Yandex Maps": "",
+      "Working Hours": "Вс-Чт: 08:00-22:30\nПт-Сб : 08:00-00:00",
+      "Timezone": "4",
+      "Coordinates": "25.21306377857855, 55.282940870025854",
+      "Territory": "",
+      "Who Recommends": "Катя Авраменко",
+      "Updated": "ноябрь 2025"
     }
   ],
   "Categories": [
