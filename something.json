@@ -1075,7 +1075,7 @@
       "Working Hours": "Пн-Вс: 07:00-00:00",
       "Timezone": "4",
       "Coordinates": "25.15876582958045, 55.20925246345645",
-      "Territory": "",
+      "Territory": "Дубай",
       "Who Recommends": "Катя Авраменко",
       "Updated": "ноябрь 2025",
       "Price": "$$"
@@ -1090,7 +1090,7 @@
       "Working Hours": "Вс-Чт: 08:00-22:30\nПт-Сб : 08:00-00:00",
       "Timezone": "4",
       "Coordinates": "25.21306377857855, 55.282940870025854",
-      "Territory": "",
+      "Territory": "Дубай",
       "Who Recommends": "Катя Авраменко",
       "Updated": "ноябрь 2025",
       "Price": "$$"
@@ -1105,7 +1105,7 @@
       "Working Hours": "Пн-Вс: 10:00-20:00",
       "Timezone": "9",
       "Coordinates": "35.003486744012854, 135.75841436721302",
-      "Territory": "",
+      "Territory": "Киото",
       "Who Recommends": "Редакция",
       "Updated": "ноябрь 2025",
       "Price": "$$"
@@ -1120,7 +1120,7 @@
       "Working Hours": "Пн-Вс: 10:30-20:00",
       "Timezone": "9",
       "Coordinates": "35.003435280359774, 135.76664090168745",
-      "Territory": "",
+      "Territory": "Киото",
       "Who Recommends": "Редакция, Катя Авраменко",
       "Updated": "ноябрь 2025",
       "Price": "$$$"
@@ -1135,7 +1135,7 @@
       "Working Hours": "Вт-Чт: 09:00-16:00\nСб-Вс : 09:00-16:00",
       "Timezone": "9",
       "Coordinates": "35.68684520846565, 139.75728200246556",
-      "Territory": "",
+      "Territory": "Токио",
       "Who Recommends": "Редакция, Катя Авраменко",
       "Updated": "ноябрь 2025",
       "Price": "$"
@@ -1150,7 +1150,7 @@
       "Working Hours": "Пн-Вс: 11:00-20:00",
       "Timezone": "9",
       "Coordinates": "35.67223380375778, 139.76493568982482",
-      "Territory": "",
+      "Territory": "Токио",
       "Who Recommends": "Редакция, Катя Авраменко",
       "Updated": "ноябрь 2025",
       "Price": "$$$"
@@ -1160,7 +1160,15 @@
       "Category": "магазин",
       "Description": "",
       "Photo URL": "",
-      "Google Maps": "https://maps.app.goo.gl/Q8wDiWgLWsYrwRxE9"
+      "Google Maps": "https://maps.app.goo.gl/Q8wDiWgLWsYrwRxE9",
+      "Yandex Maps": "",
+      "Working Hours": "Пн-Вс: 11:00-21:00",
+      "Timezone": "9",
+      "Coordinates": "35.67321791577835, 139.76537598234094",
+      "Territory": "Токио",
+      "Who Recommends": "Редакция, Катя Авраменко",
+      "Updated": "ноябрь 2025",
+      "Price": "$$"
     }
   ],
   "Categories": [
