@@ -1109,6 +1109,58 @@
       "Who Recommends": "Редакция",
       "Updated": "ноябрь 2025",
       "Price": "$$"
+    },
+    {
+      "Name": "Fujii Daimaru",
+      "Category": "магазин",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "https://maps.app.goo.gl/rfGr6K2GiRvqXhZT8",
+      "Yandex Maps": "",
+      "Working Hours": "Пн-Вс: 10:30-20:00",
+      "Timezone": "9",
+      "Coordinates": "35.003435280359774, 135.76664090168745",
+      "Territory": "",
+      "Who Recommends": "Редакция, Катя Авраменко",
+      "Updated": "ноябрь 2025",
+      "Price": "$$$"
+    },
+    {
+      "Name": "Imperial Palace East National Gardens",
+      "Category": "природа",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "https://maps.app.goo.gl/eLTfMMaYheBhQzcN8",
+      "Yandex Maps": "",
+      "Working Hours": "Вт-Чт: 09:00-16:00\nСб-Вс : 09:00-16:00",
+      "Timezone": "9",
+      "Coordinates": "35.68684520846565, 139.75728200246556",
+      "Territory": "",
+      "Who Recommends": "Редакция, Катя Авраменко",
+      "Updated": "ноябрь 2025",
+      "Price": "$"
+    },
+    {
+      "Name": "BEAMS GINZA",
+      "Category": "магазин",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "https://maps.app.goo.gl/gsoM5KUv13GzEzLK8",
+      "Yandex Maps": "",
+      "Working Hours": "Пн-Вс: 11:00-20:00",
+      "Timezone": "9",
+      "Coordinates": "35.67223380375778, 139.76493568982482",
+      "Territory": "",
+      "Who Recommends": "Редакция, Катя Авраменко",
+      "Updated": "ноябрь 2025",
+      "Price": "$$$"
+    },
+    {
+      "Name": "MUJI Ginza",
+      "Category": "магазин",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "https://maps.app.goo.gl/Q8wDiWgLWsYrwRxE9"
     }
   ],
   "Categories": [
