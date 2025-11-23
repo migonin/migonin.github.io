@@ -88,7 +88,7 @@
       "Territory": "Москва",
       "Who Recommends": "Катя Авраменко, Редакция",
       "Updated": "ноябрь 2025",
-      "Price": "$"
+      "Price": "$$"
     },
     {
       "Name": "Нескучный сад",
@@ -703,7 +703,7 @@
       "Territory": "Санкт-Петербург",
       "Who Recommends": "Редакция",
       "Updated": "ноябрь 2025",
-      "Price": "$$$$"
+      "Price": "$$$"
     },
     {
       "Name": "Пища династии Минь",
@@ -1094,6 +1094,21 @@
       "Who Recommends": "Катя Авраменко",
       "Updated": "ноябрь 2025",
       "Price": "$$"
+    },
+    {
+      "Name": "Pokemon Center Kyoto",
+      "Category": "магазин",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "https://maps.app.goo.gl/x6N5RvEfTSuzihVA8",
+      "Yandex Maps": "",
+      "Working Hours": "Пн-Вс: 10:00-20:00",
+      "Timezone": "9",
+      "Coordinates": "35.003486744012854, 135.75841436721302",
+      "Territory": "",
+      "Who Recommends": "Редакция",
+      "Updated": "ноябрь 2025",
+      "Price": "$$"
     }
   ],
   "Categories": [
@@ -1141,7 +1156,7 @@
   "Curators": [
     {
       "Name": "Редакция",
-      "Photo": "https://horosh.ee/app-resources/curators/00-team.jpg",
+      "Photo": "https://horosh.ee/app-resources/curators/000-team.jpg",
       "Description": "Небольшая команда создателей приложения выбирает лучшие места на карте разных городов мира. От ресторанов до музеев, от отелей до книжных магазинов, от салонов до баров — мы рекомендуем только те места, где были сами."
     },
     {
