@@ -437,7 +437,7 @@
     },
     {
       "Name": "Дом культуры «ГЭС-2»",
-      "Category": "культура",
+      "Category": "культура, достопримечательности",
       "Description": "Городское пространство в здании бывшей электростанции на Болотной набережной, открытое в 2021 году как основная площадка фонда V–A–C в России по образу советских домов культуры. Объединяет выставочные залы, библиотеку, кинотеатр и концертный зал, мастерские и студии художников, резиденции, магазины, ресторан и кафе, детскую площадку и аудитории для публичных мероприятий. Здесь проводят фотовыставки, перформансы, театральные постановки, концерты, стендапы и и кинопоказы.",
       "Photo URL": "",
       "Google Maps": "https://maps.app.goo.gl/16zPjRL71L6K1E5V9",
@@ -1169,6 +1169,51 @@
       "Who Recommends": "Редакция, Катя Авраменко",
       "Updated": "ноябрь 2025",
       "Price": "$$"
+    },
+    {
+      "Name": "ВДНХ",
+      "Category": "достопримечательности",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "https://maps.app.goo.gl/WioPZ9dnwimc4X4J6",
+      "Yandex Maps": "https://yandex.ru/maps/-/CLcFfK1V",
+      "Working Hours": "Пн-Вс: 00:00-00:00",
+      "Timezone": "3",
+      "Coordinates": "55.826308, 37.637697",
+      "Territory": "Москва",
+      "Who Recommends": "Редакция",
+      "Updated": "ноябрь 2025",
+      "Price": "$"
+    },
+    {
+      "Name": "Северный речной вокзал",
+      "Category": "достопримечательности",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "https://maps.app.goo.gl/DbVerFGqpkM4zFkK7",
+      "Yandex Maps": "https://yandex.ru/maps/-/CLcFjYi1",
+      "Working Hours": "Пн-Вс: 08:00-20:00",
+      "Timezone": "3",
+      "Coordinates": "55.851068, 37.467051",
+      "Territory": "Москва",
+      "Who Recommends": "Редакция",
+      "Updated": "ноябрь 2025",
+      "Price": "$"
+    },
+    {
+      "Name": "Храм Василия Блаженного\n",
+      "Category": "достопримечательности",
+      "Description": "",
+      "Photo URL": "",
+      "Google Maps": "https://maps.app.goo.gl/FS3L7JLroi2DPiKNA",
+      "Yandex Maps": "https://yandex.ru/maps/-/CLcFnCNT",
+      "Working Hours": "Пн-Вс: 11:00-17:00",
+      "Timezone": "3",
+      "Coordinates": "55.752513, 37.623148",
+      "Territory": "Москва",
+      "Who Recommends": "Редакция",
+      "Updated": "ноябрь 2025",
+      "Price": "$"
     }
   ],
   "Categories": [
