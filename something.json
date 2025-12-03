@@ -11,7 +11,7 @@
       "Timezone": "3",
       "Coordinates": "55.737328, 37.640004",
       "Territory": "Москва",
-      "Who Recommends": "Катя Авраменко, Редакция",
+      "Who Recommends": "Катя Авраменко, Редакция, Мария Касицына",
       "Updated": "ноябрь 2025",
       "Price": "$$"
     },
@@ -26,7 +26,7 @@
       "Timezone": "3",
       "Coordinates": "55.732660, 37.627335",
       "Territory": "Москва",
-      "Who Recommends": "Катя Авраменко, Редакция",
+      "Who Recommends": "Катя Авраменко, Редакция, Мария Касицына",
       "Updated": "ноябрь 2025",
       "Price": "$$"
     },
@@ -131,7 +131,7 @@
       "Timezone": "3",
       "Coordinates": "55.758304, 37.598107",
       "Territory": "Москва",
-      "Who Recommends": "Редакция",
+      "Who Recommends": "Редакция, Мария Касицына",
       "Updated": "ноябрь 2025",
       "Price": "$$"
     },
@@ -146,7 +146,7 @@
       "Timezone": "3",
       "Coordinates": "55.729028, 37.626705",
       "Territory": "Москва",
-      "Who Recommends": "Редакция",
+      "Who Recommends": "Редакция, Мария Касицына",
       "Updated": "ноябрь 2025",
       "Price": "$$"
     },
@@ -191,7 +191,7 @@
       "Timezone": "3",
       "Coordinates": "55.763078, 37.568573",
       "Territory": "Москва",
-      "Who Recommends": "Катя Авраменко",
+      "Who Recommends": "Катя Авраменко, Мария Касицына",
       "Updated": "ноябрь 2025",
       "Price": "$$$"
     },
@@ -221,7 +221,7 @@
       "Timezone": "3",
       "Coordinates": "55.754122, 37.638684",
       "Territory": "Москва",
-      "Who Recommends": "Катя Авраменко",
+      "Who Recommends": "Катя Авраменко, Мария Касицына",
       "Updated": "ноябрь 2025",
       "Price": "$$$"
     },
@@ -446,7 +446,7 @@
       "Timezone": "3",
       "Coordinates": "55.742751, 37.612732",
       "Territory": "Москва",
-      "Who Recommends": "Редакция",
+      "Who Recommends": "Редакция, Мария Касицына",
       "Updated": "ноябрь 2025",
       "Price": "$$"
     },
@@ -596,7 +596,7 @@
       "Timezone": "3",
       "Coordinates": "55.838122, 37.620806",
       "Territory": "Москва",
-      "Who Recommends": "Редакция",
+      "Who Recommends": "Редакция, Мария Касицына",
       "Updated": "ноябрь 2025",
       "Price": "$$$"
     },
@@ -1285,7 +1285,9 @@
       "Working Hours": "Вт-Пт: 12:00-23:00 \nСб-Вс: 11:00-23:00",
       "Timezone": "3",
       "Coordinates": "55.726318, 37.570455",
-      "Territory": "Москва"
+      "Territory": "Москва",
+      "Who Recommends": "Мария Касицына",
+      "Updated": "ноябрь 2025"
     },
     {
       "Name": "Brera\r\n",
@@ -1297,7 +1299,9 @@
       "Working Hours": "Вт-Вс: 08:00-00:00",
       "Timezone": "3",
       "Coordinates": "55.757293, 37.601466",
-      "Territory": "Москва"
+      "Territory": "Москва",
+      "Who Recommends": "Мария Касицына",
+      "Updated": "ноябрь 2025"
     },
     {
       "Name": "Carniceria Vino",
@@ -1309,7 +1313,9 @@
       "Working Hours": "Пн-Вс: 17:00-00:00",
       "Timezone": "3",
       "Coordinates": "55.754539, 37.638940",
-      "Territory": "Москва"
+      "Territory": "Москва",
+      "Who Recommends": "Мария Касицына",
+      "Updated": "ноябрь 2025"
     },
     {
       "Name": "Self Edge Japanese\r",
@@ -1321,7 +1327,9 @@
       "Working Hours": "Пн-Вс: 13:00-23:00",
       "Timezone": "3",
       "Coordinates": "55.774230, 37.587133",
-      "Territory": "Москва"
+      "Territory": "Москва",
+      "Who Recommends": "Мария Касицына",
+      "Updated": "ноябрь 2025"
     },
     {
       "Name": "Ritmo X Giardino",
@@ -1333,7 +1341,9 @@
       "Working Hours": "Пн-Вс: 11:00-21:00",
       "Timezone": "3",
       "Coordinates": "55.758971, 37.594006",
-      "Territory": "Москва"
+      "Territory": "Москва",
+      "Who Recommends": "Мария Касицына",
+      "Updated": "ноябрь 2025"
     },
     {
       "Name": "On Sight",
@@ -1345,7 +1355,9 @@
       "Working Hours": "Пн-Вс: 10:00-22:00",
       "Timezone": "3",
       "Coordinates": "55.759305, 37.647632",
-      "Territory": "Москва"
+      "Territory": "Москва",
+      "Who Recommends": "Мария Касицына",
+      "Updated": "ноябрь 2025"
     },
     {
       "Name": "Kiosk 1936\r",
@@ -1357,7 +1369,9 @@
       "Working Hours": "Пн-Вс: 09:00-23:00",
       "Timezone": "3",
       "Coordinates": "55.762422, 37.642700",
-      "Territory": "Москва"
+      "Territory": "Москва",
+      "Who Recommends": "Мария Касицына",
+      "Updated": "ноябрь 2025"
     },
     {
       "Name": "Hq! Coffee\r\n",
@@ -1369,7 +1383,9 @@
       "Working Hours": "Пн-Вс: 08:00-22:00",
       "Timezone": "3",
       "Coordinates": "55.755694, 37.543358",
-      "Territory": "Москва"
+      "Territory": "Москва",
+      "Who Recommends": "Мария Касицына",
+      "Updated": "ноябрь 2025"
     },
     {
       "Name": "МитПоинт",
@@ -1381,7 +1397,9 @@
       "Working Hours": "Пн-Вс: 00:00-00:00",
       "Timezone": "3",
       "Coordinates": "55.760893, 37.605845",
-      "Territory": "Москва"
+      "Territory": "Москва",
+      "Who Recommends": "Мария Касицына",
+      "Updated": "ноябрь 2025"
     },
     {
       "Name": "Mini Turkish Spot",
@@ -1393,7 +1411,9 @@
       "Working Hours": "Пн-Вс: 12:00-00:00",
       "Timezone": "3",
       "Coordinates": "55.768409, 37.602175",
-      "Territory": "Москва"
+      "Territory": "Москва",
+      "Who Recommends": "Мария Касицына",
+      "Updated": "ноябрь 2025"
     },
     {
       "Name": "Автомойка by Veladora",
@@ -1405,7 +1425,9 @@
       "Working Hours": "Вт-Чт: 18:00-00:00\nПт-Сб: 18:00-02:00\nВс: 18:00-00:00",
       "Timezone": "3",
       "Coordinates": "55.757881, 37.640017",
-      "Territory": "Москва"
+      "Territory": "Москва",
+      "Who Recommends": "Мария Касицына",
+      "Updated": "ноябрь 2025"
     },
     {
       "Name": "Компаньон",
@@ -1414,10 +1436,12 @@
       "Photo URL": "",
       "Google Maps": "",
       "Yandex Maps": "https://yandex.ru/maps/org/kompanyon/186267388737?si=mf8ck2ga2jbrtcjp5frw0yphuw",
-      "Working Hours": "Пн-Чт: 18:00-00:00\nПт-Сб: 18:00-02:00\nВс: 18:00-00:00\n",
+      "Working Hours": "Пн-Чт: 18:00-00:00\nПт-Сб: 18:00-02:00\nВс: 18:00-00:00",
       "Timezone": "3",
       "Coordinates": "55.758194, 37.639795",
-      "Territory": "Москва"
+      "Territory": "Москва",
+      "Who Recommends": "Мария Касицына",
+      "Updated": "ноябрь 2025"
     },
     {
       "Name": "Underdog",
@@ -1429,7 +1453,9 @@
       "Working Hours": "Пн-Чт: 13:00-00:00\nПт-Сб: 13:00-03:00\nВс: 13:00-00:00",
       "Timezone": "3",
       "Coordinates": "55.757905, 37.635645",
-      "Territory": "Москва"
+      "Territory": "Москва",
+      "Who Recommends": "Мария Касицына",
+      "Updated": "ноябрь 2025"
     },
     {
       "Name": "May",
@@ -1441,7 +1467,9 @@
       "Working Hours": "Пн-Вс: 12:00-23:00",
       "Timezone": "3",
       "Coordinates": "55.773022, 37.597164",
-      "Territory": "Москва"
+      "Territory": "Москва",
+      "Who Recommends": "Мария Касицына",
+      "Updated": "ноябрь 2025"
     },
     {
       "Name": "Tears Of",
@@ -1453,7 +1481,9 @@
       "Working Hours": "Пн-Вс: 10:00-22:00",
       "Timezone": "3",
       "Coordinates": "55.758061, 37.589247",
-      "Territory": "Москва"
+      "Territory": "Москва",
+      "Who Recommends": "Мария Касицына",
+      "Updated": "ноябрь 2025"
     },
     {
       "Name": "Predubezhdai\r",
@@ -1465,7 +1495,9 @@
       "Working Hours": "Пн-Вс: 10:00-22:00",
       "Timezone": "3",
       "Coordinates": "55.757443, 37.602418",
-      "Territory": "Москва"
+      "Territory": "Москва",
+      "Who Recommends": "Мария Касицына",
+      "Updated": "ноябрь 2025"
     },
     {
       "Name": "Nuself",
@@ -1477,7 +1509,9 @@
       "Working Hours": "Пн-Вс: 10:00-22:00",
       "Timezone": "3",
       "Coordinates": "55.757298, 37.602504",
-      "Territory": "Москва"
+      "Territory": "Москва",
+      "Who Recommends": "Мария Касицына",
+      "Updated": "ноябрь 2025"
     },
     {
       "Name": "Цветной",
@@ -1489,7 +1523,9 @@
       "Working Hours": "Пн-Вс: 10:00-22:00",
       "Timezone": "3",
       "Coordinates": "55.773951, 37.621097",
-      "Territory": "Москва"
+      "Territory": "Москва",
+      "Who Recommends": "Мария Касицына",
+      "Updated": "ноябрь 2025"
     },
     {
       "Name": "Музей русского импрессионизма\r",
@@ -1501,7 +1537,9 @@
       "Working Hours": "Пн: 11:00-20:00\nВт-Чт: 12:00-21:00\nПт-Вс: 11:00-20:00",
       "Timezone": "3",
       "Coordinates": "55.784294, 37.571267",
-      "Territory": "Москва"
+      "Territory": "Москва",
+      "Who Recommends": "Мария Касицына",
+      "Updated": "ноябрь 2025"
     },
     {
       "Name": "Театральный проект а39",
@@ -1513,7 +1551,9 @@
       "Working Hours": "Пн-Вс: 19:00-23:00",
       "Timezone": "3",
       "Coordinates": "55.736919, 37.594447",
-      "Territory": "Москва"
+      "Territory": "Москва",
+      "Who Recommends": "Мария Касицына",
+      "Updated": "ноябрь 2025"
     },
     {
       "Name": "Внутри",
@@ -1525,7 +1565,9 @@
       "Working Hours": "Пн-Вс: 19:00-23:00",
       "Timezone": "3",
       "Coordinates": "55.764107, 37.661862",
-      "Territory": "Москва"
+      "Territory": "Москва",
+      "Who Recommends": "Мария Касицына",
+      "Updated": "ноябрь 2025"
     }
   ],
   "Categories": [
@@ -1584,7 +1626,7 @@
     {
       "Name": "Мария Касицына",
       "Photo": "",
-      "Description": "Создатель Кофейной Карты»"
+      "Description": "Создатель «Кофейной Карты»"
     }
   ]
 }
