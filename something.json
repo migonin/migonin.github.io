@@ -1572,7 +1572,7 @@
     {
       "Name": "SOFI",
       "Category": "еда, кофе",
-      "Description": "",
+      "Description": "Датская пекарня в восстановленном кирпичном здании фабрики XIX века в квартале Sophie-Gips-Höfe, созданная ресторатором Фредериком Билле Брахе из копенгагенского Atelier September в коллаборации со Slowness. Здесь печут хлеб на закваске из органического зерна северо-европейских фермеров, делают круассаны, воздушные булочки с кардамоном и апельсином, подают batch-brew кофе, свежевыжатые соки и комбучу местных производителей.",
       "Photo URL": "",
       "Google Maps": "https://maps.app.goo.gl/ri36ALthGA9h1xsp8 ",
       "Yandex Maps": "",
@@ -1586,7 +1586,7 @@
     {
       "Name": "Babel Books Berlin",
       "Category": "книжный",
-      "Description": "",
+      "Description": "Магазин специализируется на русской литературе — современной прозе, редких изданиях, нон-фикшн, поэзии, детских книгах с доставкой со склада в Берлине по Европе. Уютное пространство создает атмосферу «дома вдали от дома», владельцы консультируют посетителей и помогают с выбором книг. Ассортимент включает качественную литературу, малотиражные издания, новинки российских издательств.",
       "Photo URL": "",
       "Google Maps": "https://maps.app.goo.gl/EKQdfKkTAeCB56Ey8",
       "Yandex Maps": "",
@@ -1600,7 +1600,7 @@
     {
       "Name": "Shiso Burger Kantstr",
       "Category": "еда",
-      "Description": "",
+      "Description": "Азиатско-европейские фьюжн-бургеры в домашних пушистых булочках — bulgogi с корейскими специями и терияки, креветочный ebi, тунцовый shiso, с кимчи. Мясо жарят до хрустящей корочки снаружи и сочности внутри, дополняют чили-майо, жареным луком, мисо-соусом, листьями шисо, подают в деревянных мисочках с палочками. Всё это в минималистичном интерьере со светлой мебелью и быстрым обслуживанием.",
       "Photo URL": "",
       "Google Maps": "https://maps.app.goo.gl/gnNM7PxhnkXEzHZY7",
       "Yandex Maps": "",
@@ -1668,7 +1668,7 @@
       "Updated": "декабрь 2025"
     },
     {
-      "Name": "Росендальс тредгорд",
+      "Name": "Rosendals Trädgård",
       "Category": "природа",
       "Description": "",
       "Photo URL": "",
@@ -1696,7 +1696,7 @@
       "Updated": "декабрь 2025"
     },
     {
-      "Name": "Royal Copenhagen - Outlet",
+      "Name": "Royal Copenhagen — Outlet",
       "Category": "магазин",
       "Description": "",
       "Photo URL": "",
@@ -1714,7 +1714,7 @@
       "Category": "природа",
       "Description": "",
       "Photo URL": "",
-      "Google Maps": "https://maps.app.goo.gl/DoSKzHhPLUavLbxr7CopenHill",
+      "Google Maps": "https://maps.app.goo.gl/Fr9PhM8qA46SsPVV8",
       "Yandex Maps": "",
       "Working Hours": "Вт-Пт: 12:00-19:00\nСб: 10:00-19:00\nВс: 10:00-17:00",
       "Timezone": "1",
@@ -1738,7 +1738,7 @@
       "Updated": "декабрь 2025"
     },
     {
-      "Name": "Музей Мунка",
+      "Name": "Munch",
       "Category": "культура",
       "Description": "",
       "Photo URL": "",
@@ -1766,7 +1766,7 @@
       "Updated": "декабрь 2025"
     },
     {
-      "Name": "Боро-маркет",
+      "Name": "Borough Market",
       "Category": "еда",
       "Description": "",
       "Photo URL": "",
@@ -1780,7 +1780,7 @@
       "Updated": "декабрь 2025"
     },
     {
-      "Name": "Музей Виктории и Альберта",
+      "Name": "Victoria and Albert Museum",
       "Category": "культура",
       "Description": "",
       "Photo URL": "",
@@ -1794,7 +1794,7 @@
       "Updated": "декабрь 2025"
     },
     {
-      "Name": "Музей сэра Джона Соуна",
+      "Name": "Sir John Soane's Museum",
       "Category": "культура",
       "Description": "",
       "Photo URL": "",
@@ -1836,7 +1836,7 @@
       "Updated": "декабрь 2025"
     },
     {
-      "Name": "Il Salumaio di Montenapoleone - since 1957",
+      "Name": "Il Salumaio di Montenapoleone — since 1957",
       "Category": "еда",
       "Description": "",
       "Photo URL": "",
