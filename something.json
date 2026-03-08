@@ -13,7 +13,10 @@
       "Territory": "Москва",
       "Who Recommends": "Катя Авраменко, Редакция, Мария Касицына",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Аэроплан",
@@ -28,7 +31,10 @@
       "Territory": "Москва",
       "Who Recommends": "Катя Авраменко, Редакция, Мария Касицына",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Sushi no Midori",
@@ -43,7 +49,10 @@
       "Territory": "Токио",
       "Who Recommends": "Катя Авраменко, Редакция",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "Пн-Пт: 11:00-15:00\nСб-Вс: 11:00-21:00",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Found Rāmen & Rekōdo",
@@ -58,7 +67,10 @@
       "Territory": "Москва",
       "Who Recommends": "Катя Авраменко, Редакция",
       "Updated": "декабрь 2025",
-      "Price": "$$$"
+      "Price": "$$$",
+      "AI Check for new Working Hours": "Пн-Чт, Вс: 12:00-23:00; Пт-Сб: 12:00-24:00",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Парк Мещерский",
@@ -73,7 +85,10 @@
       "Territory": "Москва",
       "Who Recommends": "Катя Авраменко, Редакция",
       "Updated": "декабрь 2025",
-      "Price": "$"
+      "Price": "$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Sabz",
@@ -88,7 +103,10 @@
       "Territory": "Москва",
       "Who Recommends": "Катя Авраменко, Редакция",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "Unknown",
+      "AI Operating Check": "No",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Нескучный сад",
@@ -598,7 +616,10 @@
       "Territory": "Кострома",
       "Who Recommends": "Катя Авраменко, Редакция",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Гостевой дом О'27 Silvuple",
@@ -613,7 +634,10 @@
       "Territory": "Ростов",
       "Who Recommends": "Редакция",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Витебский вокзал",
@@ -748,7 +772,10 @@
       "Territory": "Геленджик",
       "Who Recommends": "Катя Авраменко, Редакция",
       "Updated": "декабрь 2025",
-      "Price": "$$$"
+      "Price": "$$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Рыбинск",
@@ -763,7 +790,10 @@
       "Territory": "Геленджик",
       "Who Recommends": "Катя Авраменко, Редакция",
       "Updated": "декабрь 2025",
-      "Price": "$$$"
+      "Price": "$$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Баня на Листопадной",
@@ -823,7 +853,10 @@
       "Territory": "Минск",
       "Who Recommends": "Редакция",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "Пн-Вс: 10:00-22:00",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Шлосс",
@@ -838,7 +871,10 @@
       "Territory": "Калининград",
       "Who Recommends": "Редакция",
       "Updated": "декабрь 2025",
-      "Price": "$$$"
+      "Price": "$$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Bilmonte",
@@ -853,7 +889,10 @@
       "Territory": "Барселона",
       "Who Recommends": "Редакция",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "ASAI Kyoto Shijo",
@@ -868,7 +907,10 @@
       "Territory": "Киото",
       "Who Recommends": "Редакция",
       "Updated": "декабрь 2025",
-      "Price": "$$$"
+      "Price": "$$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "More",
@@ -898,7 +940,10 @@
       "Territory": "Альпы",
       "Who Recommends": "Редакция",
       "Updated": "декабрь 2025",
-      "Price": "$$$"
+      "Price": "$$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Satsuki",
@@ -913,7 +958,10 @@
       "Territory": "Альпы",
       "Who Recommends": "Редакция",
       "Updated": "декабрь 2025",
-      "Price": "$$$"
+      "Price": "$$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "RØST Bakery",
@@ -928,7 +976,10 @@
       "Territory": "Таллин",
       "Who Recommends": "Редакция",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "Пн-Пт: 08:30-18:00\nСб: 09:30-17:00",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "The Seafood Bar",
@@ -943,7 +994,10 @@
       "Territory": "Амстердам",
       "Who Recommends": "Редакция",
       "Updated": "декабрь 2025",
-      "Price": "$$$"
+      "Price": "$$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Vondelpark",
@@ -958,7 +1012,10 @@
       "Territory": "Амстердам",
       "Who Recommends": "Редакция",
       "Updated": "декабрь 2025",
-      "Price": "$"
+      "Price": "$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Kastrup Søbad",
@@ -973,7 +1030,10 @@
       "Territory": "Копенгаген",
       "Who Recommends": "Редакция",
       "Updated": "декабрь 2025",
-      "Price": "$"
+      "Price": "$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Atelier September",
@@ -988,7 +1048,10 @@
       "Territory": "Копенгаген",
       "Who Recommends": "Редакция",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Grundtvigs Kirke",
@@ -1003,7 +1066,10 @@
       "Territory": "Копенгаген",
       "Who Recommends": "Редакция",
       "Updated": "декабрь 2025",
-      "Price": "$"
+      "Price": "$",
+      "AI Check for new Working Hours": "Вт-Чт: 10:00-15:45\nПт: 10:00-12:00",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Vouliagmeni Lake",
@@ -1018,7 +1084,10 @@
       "Territory": "Афины",
       "Who Recommends": "Редакция",
       "Updated": "декабрь 2025",
-      "Price": "$$$"
+      "Price": "$$$",
+      "AI Check for new Working Hours": "Пн-Вс: 08:30-16:30",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Cuma",
@@ -1033,7 +1102,10 @@
       "Territory": "Стамбул",
       "Who Recommends": "Редакция",
       "Updated": "декабрь 2025",
-      "Price": "$$$"
+      "Price": "$$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Casper",
@@ -1063,7 +1135,10 @@
       "Territory": "Дубай",
       "Who Recommends": "Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$$$"
+      "Price": "$$$",
+      "AI Check for new Working Hours": "Пн-Вс: 18:00-02:00",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Orijins",
@@ -1078,7 +1153,10 @@
       "Territory": "Дубай",
       "Who Recommends": "Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "Пн-Вс: 08:00-16:00",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Pokemon Center Kyoto",
@@ -1093,7 +1171,10 @@
       "Territory": "Киото",
       "Who Recommends": "Редакция",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Fujii Daimaru",
@@ -1108,7 +1189,10 @@
       "Territory": "Киото",
       "Who Recommends": "Редакция, Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Imperial Palace East National Gardens",
@@ -1123,7 +1207,10 @@
       "Territory": "Токио",
       "Who Recommends": "Редакция, Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$"
+      "Price": "$",
+      "AI Check for new Working Hours": "Вт-Вс: 09:00-16:00",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "BEAMS GINZA",
@@ -1138,7 +1225,10 @@
       "Territory": "Токио",
       "Who Recommends": "Редакция, Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$$$"
+      "Price": "$$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "MUJI Ginza",
@@ -1153,7 +1243,10 @@
       "Territory": "Токио",
       "Who Recommends": "Редакция, Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "ВДНХ",
@@ -1588,7 +1681,10 @@
       "Territory": "Берлин",
       "Who Recommends": "Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "Пн-Пт: 07:30-18:30\nСб-Вс: 08:30-17:30",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Babel Books Berlin",
@@ -1603,7 +1699,10 @@
       "Territory": "Берлин",
       "Who Recommends": "Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Shiso Burger Alte Schönhauser",
@@ -1618,7 +1717,10 @@
       "Territory": "Берлин",
       "Who Recommends": "Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "P & T - Paper & Tea - tea shop Berlin",
@@ -1633,7 +1735,10 @@
       "Territory": "Берлин",
       "Who Recommends": "Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Honest Greens Arc de Triomf",
@@ -1648,7 +1753,10 @@
       "Territory": "Барселона",
       "Who Recommends": "Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Morrow Coffee",
@@ -1663,7 +1771,10 @@
       "Territory": "Барселона",
       "Who Recommends": "Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Balzac Café",
@@ -1678,7 +1789,10 @@
       "Territory": "Барселона",
       "Who Recommends": "Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Louisiana Museum of Modern Art",
@@ -1693,7 +1807,10 @@
       "Territory": "Хумлебек",
       "Who Recommends": "Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Rosendals Trädgård",
@@ -1708,7 +1825,10 @@
       "Territory": "Стокгольм",
       "Who Recommends": "Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "No",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "The Old University Library in Copenhagen",
@@ -1723,7 +1843,10 @@
       "Territory": "Копенгаген",
       "Who Recommends": "Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$"
+      "Price": "$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Royal Copenhagen — Outlet",
@@ -1738,7 +1861,10 @@
       "Territory": "Копенгаген",
       "Who Recommends": "Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$$$"
+      "Price": "$$$",
+      "AI Check for new Working Hours": "Пн-Пт: 10:00-18:00\nСб: 10:00-15:00\nВс: 11:00-15:00",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "CopenHill",
@@ -1753,7 +1879,10 @@
       "Territory": "Копенгаген",
       "Who Recommends": "Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "Сб-Вс: 10:00-17:00",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Apotek 57",
@@ -1768,7 +1897,10 @@
       "Territory": "Копенгаген",
       "Who Recommends": "Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$$$"
+      "Price": "$$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Munch",
@@ -1783,7 +1915,10 @@
       "Territory": "Осло",
       "Who Recommends": "Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Fiskeriet Youngstorget",
@@ -1798,7 +1933,10 @@
       "Territory": "Осло",
       "Who Recommends": "Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "Пн-Пт: 11:00-22:30",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Victoria and Albert Museum",
@@ -1813,7 +1951,10 @@
       "Territory": "Лондон",
       "Who Recommends": "Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$"
+      "Price": "$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Sir John Soane's Museum",
@@ -1828,7 +1969,10 @@
       "Territory": "Лондон",
       "Who Recommends": "Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$"
+      "Price": "$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Daunt Books Marylebone",
@@ -1843,7 +1987,10 @@
       "Territory": "Лондон",
       "Who Recommends": "Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "Пн-Сб: 09:00-19:30\nВс: 11:00-18:00",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Burger & Lobster Mayfair",
@@ -1858,7 +2005,10 @@
       "Territory": "Лондон",
       "Who Recommends": "Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$$$"
+      "Price": "$$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Il Salumaio di Montenapoleone — since 1957",
@@ -1873,7 +2023,10 @@
       "Territory": "Милан",
       "Who Recommends": "Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$$$"
+      "Price": "$$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Taschen",
@@ -1888,7 +2041,10 @@
       "Territory": "Милан",
       "Who Recommends": "Катя Авраменко",
       "Updated": "декабрь 2025",
-      "Price": "$$$"
+      "Price": "$$$",
+      "AI Check for new Working Hours": "Пн-Вс: 10:30-19:30",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Шаверма на углях",
@@ -1918,7 +2074,10 @@
       "Territory": "Берлин",
       "Who Recommends": "Таня Кощеева",
       "Updated": "март 2026",
-      "Price": "$$"
+      "Price": "$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "LOUMI",
@@ -1933,7 +2092,10 @@
       "Territory": "Берлин",
       "Who Recommends": "Таня Кощеева",
       "Updated": "март 2026",
-      "Price": "$$$$"
+      "Price": "$$$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "CODA",
@@ -1948,7 +2110,10 @@
       "Territory": "Берлин",
       "Who Recommends": "Таня Кощеева",
       "Updated": "март 2026",
-      "Price": "$$$$"
+      "Price": "$$$$",
+      "AI Check for new Working Hours": "",
+      "AI Operating Check": "Yes",
+      "AI Check Date": "2026-03-08"
     },
     {
       "Name": "Nobelhart & Schmutzig",
