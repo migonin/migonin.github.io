@@ -40,6 +40,9 @@
                     {
                         "/": "/ideas/*"
                     },
+                    {
+                        "/": "/wishes/*/fast-reservation/email"
+                    }
                 ]
             }
         ]
