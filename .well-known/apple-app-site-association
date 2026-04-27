@@ -41,7 +41,7 @@
                         "/": "/ideas/*"
                     },
                     {
-                        "/": "/wishes/*/fast-reservation/email"
+                        "/": "/social/*"
                     }
                 ]
             }
