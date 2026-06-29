@@ -1,47 +1,61 @@
-{
+  {
     "applinks": {
-        "details": [
+      "details": [
+        {
+          "appIDs": [
+            "56Y25S45T4.ru.omw.app"
+          ],
+          "components": [
             {
-                "appIDs": [
-                    "56Y25S45T4.ru.omw.app"
-                ],
-                "components": [
-                    {
-                        "#": "no_universal_links",
-                        "exclude": true
-                    },
-                    {
-                        "/": "/users/*"
-                    },
-                    {
-                        "/": "/password/*"
-                    },
-                    {
-                        "/": "/email/*"
-                    },
-                    {
-                        "/": "/selections/*"
-                    },
-                    {
-                        "/": "/santa"
-                    },
-                    {
-                        "/": "/game/*"
-                    },
-                    {
-                        "/": "/santa/games/*"
-                    },
-                    {
-                        "/": "/ideas/*"
-                    },
-                    {
-                        "/": "/social/*"
-                    }
-                ]
+              "#": "no_universal_links",
+              "exclude": true
+            },
+            {
+              "/": "/users/*"
+            },
+            {
+              "/": "/password/*"
+            },
+            {
+              "/": "/email/*"
+            },
+            {
+              "/": "/selections/*"
+            },
+            {
+              "/": "/??"
+            },
+            {
+              "/": "/??/*"
+            },
+            {
+              "/": "/global"
+            },
+            {
+              "/": "/global/*"
+            },
+            {
+              "/": "/santa"
+            },
+            {
+              "/": "/game/*"
+            },
+            {
+              "/": "/santa/games/*"
+            },
+            {
+              "/": "/ideas/*"
+            },
+            {
+              "/": "/social/*"
             }
-        ]
+          ]
+        }
+      ]
     },
     "webcredentials": {
-        "apps": [ "56Y25S45T4.ru.omw.app" ]
-    },
-}
+      "apps": [
+        "56Y25S45T4.ru.omw.app"
+      ]
+    }
+  }
